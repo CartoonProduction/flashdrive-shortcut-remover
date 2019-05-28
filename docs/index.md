@@ -3,41 +3,12 @@
 You can use the [editor on GitHub](https://github.com/CartoonProduction/flashdrive-shortcut-remover/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Flashdrive Shortcut Remover
-  
-  By Kroocavee And CartoonProduction
-
-## What is Flashdrive Shortcut Remover
-  
-  Flashdrive Shortcut Remover Is The Program To Remove Virus From Your Flashdrive And Making Your Flashdrive Working Again Like New
-
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-# Flashdrive Shortcut Remover
+### Flashdrive Shortcut Remover
   By Kroocavee And CartoonProduction
 
-## What is Flashdrive Shortcut Remover
+### What is Flashdrive Shortcut Remover
   Flashdrive Shortcut Remover Is The Program To Remove Virus From Your Flashdrive And Making Your Flashdrive Working Again Like New
 
 ### Jekyll Themes
