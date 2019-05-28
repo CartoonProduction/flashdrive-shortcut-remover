@@ -1,20 +1,11 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/CartoonProduction/flashdrive-shortcut-remover/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Flashdrive Shortcut Remover
+## Flashdrive Shortcut Remover
   By Kroocavee And CartoonProduction
 
 ### What is Flashdrive Shortcut Remover
   Flashdrive Shortcut Remover Is The Program To Remove Virus From Your Flashdrive And Making Your Flashdrive Working Again Like New
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CartoonProduction/flashdrive-shortcut-remover/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  
+### Why Your File Are Hidden
+  Because You Put You Flashdrive In Pubilc Places  Ex. Computer Cafe And You Don't Known That Computer Has Flashdrive Shortcut Virus
+  
+### How It Works?
+	When you edit,copy,delete or move file on your flashdrive Cafe Computer Will Inject Virus Payloads By Hiding Your File And You Will Need A Spectific Program Or Command To Fix It
